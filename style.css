@@ -1,0 +1,44 @@
+body {
+	background-color: #809bce;
+	text-align:center;
+}
+h1 {
+	font-family:Special Elite;
+	color: #9b5de5;
+	text
+}
+h2	{
+	font-family:Noto Serif;
+	color: #9b5de5;
+}
+h3 {
+	font-family:Lobster;
+	font-size : 25px;
+	color: #9b5de5;
+}
+p {
+	font-family:playfair display ;
+	font-size: ; 
+	color: #0e0e52;
+}div	{
+	background: #cddafd; 
+	margin: 60px;
+	padding: 10px 30px 30px 30px;
+	border-radius:5px;
+}
+.logo { 
+	width:50px;
+	height:50px;
+	border-radius: 50%;
+	object-fit: cover;
+
+ }
+.imageprofil {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+#profilpicture{
+	text-align:center;
+}
